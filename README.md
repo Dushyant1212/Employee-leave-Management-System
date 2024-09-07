@@ -48,7 +48,7 @@ Ensure correct environment configurations
 Type: [Specify License]
 Details: [Link to License]
 11. Contact
-Email: [your-email@example.com]
+Email: [dushyantpurigoswami67@gmail.com]
 Support: [Support Contact Information]
 12. Documentation
 API Documentation: [Link]
